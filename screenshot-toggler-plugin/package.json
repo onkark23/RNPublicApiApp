@@ -1,0 +1,17 @@
+{
+  "name": "screenshot-toggler",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "react-native": {
+    "android": "./android",
+    "ios": "./ios"
+  },
+  "keywords": [
+    "react-native",
+    "screenshot",
+    "toggle"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  }
+}
